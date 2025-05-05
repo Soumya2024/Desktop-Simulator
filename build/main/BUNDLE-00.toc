@@ -1,0 +1,3 @@
+([('main',
+   '/Users/soumyaprasadchandra/Downloads/Projects/smart_home_control_panel/dist/main',
+   'EXECUTABLE')],)
